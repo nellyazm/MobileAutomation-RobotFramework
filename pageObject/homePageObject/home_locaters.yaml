@@ -1,0 +1,3 @@
+login: '//*[@resource-id="com.example.myapplication:id/login"]'
+menu_book: '//*[@resource-id="com.example.myapplication:id/book"]'
+menu-search: '//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]'

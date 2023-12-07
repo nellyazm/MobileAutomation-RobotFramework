@@ -1,0 +1,11 @@
+Test Case
+1. Positive case - login
+2. Negatife case - login
+
+Step
+1. Open Aplication
+2. Click Sign in Button
+3. Input Username (valid Username)
+4. Input Password (valid password)
+5. Click Button Sign Input
+6. Close Apps
